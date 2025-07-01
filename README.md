@@ -16,7 +16,10 @@
 - `termical.h`：terminal头文件。
 
 效果展示：
-<video src="https://github.com/Mingyang-Du/seed_class/blob/main/images/level2.mp4"></video>
+[video:level0](https://github.com/Mingyang-Du/seed_class/blob/main/images/level2.mp4)
+<video width="320" height="240" controls> 
+  <source src="https://www.runoob.com/try/demo_source/movie.mp4" type="video/mp4"> 
+</video>
 ## 文本显示
 解题思路：
 1、基础任务分解：
