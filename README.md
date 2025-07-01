@@ -16,8 +16,7 @@
 - `termical.h`：terminal头文件。
 
 效果展示：
-[video:level2](https://github.com/Mingyang-Du/seed_class/blob/main/images/level2.mp4)
-
+<video src="https://github.com/Mingyang-Du/seed_class/blob/main/images/level2.mp4"></video>
 ## 文本显示
 解题思路：
 1、基础任务分解：
